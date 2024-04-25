@@ -1,0 +1,108 @@
+.divider {
+  position: relative;
+  width: 100%;
+  height: 4px;
+  background-color: #e0e0e0;
+}
+
+.divider::after {
+  content: "";
+  position: absolute;
+  width: 100px;
+  height: 4px;
+  background-color: orange;
+}
+
+.col-4 div:hover {
+  background-color: gainsboro;
+}
+
+.card-tour-link {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+  color: orange;
+  text-decoration: none;
+
+  padding: 8px 16px;
+  border-radius: 12px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+
+  transition: all 1.5s cubic-bezier(0.2, 0.8, 0.3, 1.2);
+}
+
+.card-tour-link:hover {
+  background-color: orange;
+  color: white;
+}
+
+.card-tour-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 12px;
+}
+
+.load_more_My button,
+.load_more_Nhat button,
+.load_more_Canada button {
+  background-color: #9dc6f3; /* Màu nền */
+  color: #fff; /* Màu chữ */
+  border: none; /* Bỏ viền */
+  padding: 10px 20px; /* Kích thước padding */
+  border-radius: 5px; /* Bo tròn các góc */
+  cursor: pointer; /* Con trỏ khi di chuột vào */
+  font-size: 16px; /* Kích thước chữ */
+  display: block; /* Hiển thị block */
+  margin: 0 auto; /* Căn giữa theo chiều ngang */
+  margin-top: 20px; /* Khoảng cách từ trên xuống */
+}
+
+#link_to_My,
+#link_to_Nhat,
+#link_to_Canada {
+  text-decoration: none;
+  color: rgb(134, 133, 133);
+}
+
+#link_to_My:hover,
+#link_to_Nhat:hover,
+#link_to_Canada:hover {
+  color: rgb(14, 13, 13);
+}
+
+.card-img img {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+@media (max-width: 767px) {
+  .content .carousel-inner .carousel-item > div {
+    display: none;
+  }
+  .content .carousel-inner .carousel-item > div:first-child {
+    display: block;
+  }
+}
+
+.content .carousel-inner .carousel-item.active,
+.content .carousel-inner .carousel-item-next,
+.content .carousel-inner .carousel-item-prev {
+  display: flex;
+}
+
+@media (min-width: 768px) {
+  .content .carousel-inner .carousel-item-end.active,
+  .content .carousel-inner .carousel-item-next {
+    transform: translateX(25%);
+  }
+
+  .content .carousel-inner .carousel-item-start.active,
+  .content .carousel-inner .carousel-item-prev {
+    transform: translateX(-25%);
+  }
+}
+
+.content .carousel-inner .carousel-item-end,
+.content .carousel-inner .carousel-item-start {
+  transform: translateX(0);
+}

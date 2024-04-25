@@ -1,0 +1,639 @@
+{
+  "data": [
+    {
+      "id": 3,
+      "title": "Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An (Khách sạn 4 sao)",
+      "img": "../img/hohoankiem.jpg",
+      "itinerary": "TPHCM - Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An",
+       "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Bắc",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 3,
+      "title": "Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An (Khách sạn 4 sao)",
+      "img": "../img/dongthiencung.jpg",
+      "itinerary": "TPHCM - Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Bắc",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 3,
+      "title": "Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An (Khách sạn 4 sao)",
+      "img": "../img/vinhhalong.jpg",
+      "itinerary": "TPHCM - Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Bắc",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 3,
+      "title": "Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An (Khách sạn 4 sao)",
+      "img": "../img/captreoyentu.jpg",
+      "itinerary": "TPHCM - Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Bắc",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 3,
+      "title": "Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An (Khách sạn 4 sao)",
+      "img": "../img/yentu.webp",
+      "itinerary": "TPHCM - Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Bắc",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 3,
+      "title": "Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An (Khách sạn 4 sao)",
+      "img": "../img/phocohanoi.jpg",
+      "itinerary": "TPHCM - Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Bắc",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 3,
+      "title": "Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An (Khách sạn 4 sao)",
+      "img": "../img/hohoankiem.jpg",
+      "itinerary": "TPHCM - Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Bắc",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 3,
+      "title": "Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An (Khách sạn 4 sao)",
+      "img": "../img/dongthiencung.jpg",
+      "itinerary": "TPHCM - Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Bắc",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 3,
+      "title": "Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An (Khách sạn 4 sao)",
+      "img": "../img/vinhhalong.jpg",
+      "itinerary": "TPHCM - Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Bắc",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 3,
+      "title": "Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An (Khách sạn 4 sao)",
+      "img": "../img/captreoyentu.jpg",
+      "itinerary": "TPHCM - Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Bắc",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 3,
+      "title": "Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An (Khách sạn 4 sao)",
+      "img": "../img/yentu.webp",
+      "itinerary": "TPHCM - Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Bắc",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 3,
+      "title": "Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An (Khách sạn 4 sao)",
+      "img": "../img/phocohanoi.jpg",
+      "itinerary": "TPHCM - Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Bắc",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 3,
+      "title": "Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An (Khách sạn 4 sao)",
+      "img": "../img/hohoankiem.jpg",
+      "itinerary": "TPHCM - Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Bắc",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 3,
+      "title": "Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An (Khách sạn 4 sao)",
+      "img": "../img/dongthiencung.jpg",
+      "itinerary": "TPHCM - Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Bắc",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 3,
+      "title": "Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An (Khách sạn 4 sao)",
+      "img": "../img/vinhhalong.jpg",
+      "itinerary": "TPHCM - Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Bắc",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 3,
+      "title": "Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An (Khách sạn 4 sao)",
+      "img": "../img/captreoyentu.jpg",
+      "itinerary": "TPHCM - Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Bắc",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 3,
+      "title": "Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An (Khách sạn 4 sao)",
+      "img": "../img/yentu.webp",
+      "itinerary": "TPHCM - Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Bắc",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 3,
+      "title": "Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An (Khách sạn 4 sao)",
+      "img": "../img/phocohanoi.jpg",
+      "itinerary": "TPHCM - Hà Nội - Hạ Long - Yên Tử - Ninh Bình - Bái Đính - Tràng An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Bắc",
+      "DepartureDate": "12/04/2024"
+    },
+   
+    
+    {
+      "id": 1,
+      "title": "Đà Nẵng - Bà Nà - Huế - Hội An - Tour du lịch 4 ngày 3 đêm",
+      "img": "../img/chuathienmu.jpg",
+      "itinerary": "TPHCM - Đà Nẵng - Bà Nà - Huế - Hội An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Trung",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 1,
+      "title": "Đà Nẵng - Bà Nà - Huế - Hội An - Tour du lịch 4 ngày 3 đêm",
+      "img": "../img/phocohoian.webp",
+      "itinerary": "TPHCM - Đà Nẵng - Bà Nà - Huế - Hội An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Trung",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 1,
+      "title": "Đà Nẵng - Bà Nà - Huế - Hội An - Tour du lịch 4 ngày 3 đêm",
+      "img": "../img/đại nội.jpeg",
+      "itinerary": "TPHCM - Đà Nẵng - Bà Nà - Huế - Hội An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Trung",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 1,
+      "title": "Đà Nẵng - Bà Nà - Huế - Hội An - Tour du lịch 4 ngày 3 đêm",
+      "img": "../img/bana hill.png",
+      "itinerary": "TPHCM - Đà Nẵng - Bà Nà - Huế - Hội An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Trung",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 1,
+      "title": "Đà Nẵng - Bà Nà - Huế - Hội An - Tour du lịch 4 ngày 3 đêm",
+      "img": "../img/động phong nha.jpg",
+      "itinerary": "TPHCM - Đà Nẵng - Bà Nà - Huế - Hội An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Trung",
+      "DepartureDate": "12/04/2024"
+    },
+
+    {
+      "id": 1,
+      "title": "Đà Nẵng - Bà Nà - Huế - Hội An - Tour du lịch 4 ngày 3 đêm",
+      "img": "../img/động thiên đường.jpg",
+      "itinerary": "TPHCM - Đà Nẵng - Bà Nà - Huế - Hội An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Trung",
+      "DepartureDate": "12/04/2024"
+    },{
+      "id": 1,
+      "title": "Đà Nẵng - Bà Nà - Huế - Hội An - Tour du lịch 4 ngày 3 đêm",
+      "img": "../img/chuathienmu.jpg",
+      "itinerary": "TPHCM - Đà Nẵng - Bà Nà - Huế - Hội An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Trung",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 1,
+      "title": "Đà Nẵng - Bà Nà - Huế - Hội An - Tour du lịch 4 ngày 3 đêm",
+      "img": "../img/phocohoian.webp",
+      "itinerary": "TPHCM - Đà Nẵng - Bà Nà - Huế - Hội An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Trung",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 1,
+      "title": "Đà Nẵng - Bà Nà - Huế - Hội An - Tour du lịch 4 ngày 3 đêm",
+      "img": "../img/đại nội.jpeg",
+      "itinerary": "TPHCM - Đà Nẵng - Bà Nà - Huế - Hội An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Trung",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 1,
+      "title": "Đà Nẵng - Bà Nà - Huế - Hội An - Tour du lịch 4 ngày 3 đêm",
+      "img": "../img/bana hill.png",
+      "itinerary": "TPHCM - Đà Nẵng - Bà Nà - Huế - Hội An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Trung",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 1,
+      "title": "Đà Nẵng - Bà Nà - Huế - Hội An - Tour du lịch 4 ngày 3 đêm",
+      "img": "../img/động phong nha.jpg",
+      "itinerary": "TPHCM - Đà Nẵng - Bà Nà - Huế - Hội An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Trung",
+      "DepartureDate": "12/04/2024"
+    },
+
+    {
+      "id": 1,
+      "title": "Đà Nẵng - Bà Nà - Huế - Hội An - Tour du lịch 4 ngày 3 đêm",
+      "img": "../img/động thiên đường.jpg",
+      "itinerary": "TPHCM - Đà Nẵng - Bà Nà - Huế - Hội An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Trung",
+      "DepartureDate": "12/04/2024"
+    },{
+      "id": 1,
+      "title": "Đà Nẵng - Bà Nà - Huế - Hội An - Tour du lịch 4 ngày 3 đêm",
+      "img": "../img/chuathienmu.jpg",
+      "itinerary": "TPHCM - Đà Nẵng - Bà Nà - Huế - Hội An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Trung",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 1,
+      "title": "Đà Nẵng - Bà Nà - Huế - Hội An - Tour du lịch 4 ngày 3 đêm",
+      "img": "../img/phocohoian.webp",
+      "itinerary": "TPHCM - Đà Nẵng - Bà Nà - Huế - Hội An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Trung",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 1,
+      "title": "Đà Nẵng - Bà Nà - Huế - Hội An - Tour du lịch 4 ngày 3 đêm",
+      "img": "../img/đại nội.jpeg",
+      "itinerary": "TPHCM - Đà Nẵng - Bà Nà - Huế - Hội An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Trung",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 1,
+      "title": "Đà Nẵng - Bà Nà - Huế - Hội An - Tour du lịch 4 ngày 3 đêm",
+      "img": "../img/bana hill.png",
+      "itinerary": "TPHCM - Đà Nẵng - Bà Nà - Huế - Hội An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Trung",
+      "DepartureDate": "12/04/2024"
+    },
+    {
+      "id": 1,
+      "title": "Đà Nẵng - Bà Nà - Huế - Hội An - Tour du lịch 4 ngày 3 đêm",
+      "img": "../img/động phong nha.jpg",
+      "itinerary": "TPHCM - Đà Nẵng - Bà Nà - Huế - Hội An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Trung",
+      "DepartureDate": "12/04/2024"
+    },
+
+    {
+      "id": 1,
+      "title": "Đà Nẵng - Bà Nà - Huế - Hội An - Tour du lịch 4 ngày 3 đêm",
+      "img": "../img/động thiên đường.jpg",
+      "itinerary": "TPHCM - Đà Nẵng - Bà Nà - Huế - Hội An",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Trung",
+      "DepartureDate": "12/04/2024"
+    },
+
+
+
+    {
+        "id": 4,
+        "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+        "img": "../img/PhuQuoc.jpg",
+        "itinerary": "TPHCM - Phú Quốc - TPCHM",
+        "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+        "duration": "4N3D",
+        "Price": "10000000",
+        "region": "Miền Nam",
+        "DepartureDate": "19/04/1014"
+      },
+      {
+        "id": 4,
+        "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+        "img": "../img/huyenthoaitre.jpg",
+        "itinerary": "TPHCM - Phú Quốc - TPCHM",
+        "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+        "duration": "4N3D",
+        "Price": "10000000",
+        "region": "Miền Nam",
+        "DepartureDate": "19/04/1014"
+      },
+      {
+        "id": 4,
+        "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+        "img": "../img/congvien.jpg",
+        "itinerary": "TPHCM - Phú Quốc - TPCHM",
+        "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+        "duration": "4N3D",
+        "Price": "10000000",
+        "region": "Miền Nam",
+        "DepartureDate": "19/04/1014"
+      },
+      {
+        "id": 4,
+        "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+        "img": "../img/vinwonder.jpg",
+        "itinerary": "TPHCM - Phú Quốc - TPCHM",
+        "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+        "duration": "4N3D",
+        "Price": "10000000",
+        "region": "Miền Nam",
+        "DepartureDate": "19/04/1014"
+      },
+      {
+        "id": 4,
+        "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+        "img": "../img/safari.jpg",
+        "itinerary": "TPHCM - Phú Quốc - TPCHM",
+        "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+        "duration": "4N3D",
+        "Price": "10000000",
+        "region": "Miền Nam",
+        "DepartureDate": "19/04/1014"
+      },
+      {
+        "id": 4,
+        "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+        "img": "../img/chodem.jpg",
+        "itinerary": "TPHCM - Phú Quốc - TPCHM",
+        "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+        "duration": "4N3D",
+        "Price": "10000000",
+        "region": "Miền Nam",
+        "DepartureDate": "19/04/1014"
+      },
+      {
+        "id": 4,
+        "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+        "img": "../img/venice.jpg",
+        "itinerary": "TPHCM - Phú Quốc - TPCHM",
+        "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+        "duration": "4N3D",
+        "Price": "10000000",
+        "region": "Miền Nam",
+        "DepartureDate": "19/04/1014"
+      },
+      
+    {
+      "id": 4,
+      "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+      "img": "../img/PhuQuoc.jpg",
+      "itinerary": "TPHCM - Phú Quốc - TPCHM",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Nam",
+      "DepartureDate": "19/04/1014"
+    },
+    {
+      "id": 4,
+      "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+      "img": "../img/huyenthoaitre.jpg",
+      "itinerary": "TPHCM - Phú Quốc - TPCHM",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Nam",
+      "DepartureDate": "19/04/1014"
+    },
+    {
+      "id": 4,
+      "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+      "img": "../img/congvien.jpg",
+      "itinerary": "TPHCM - Phú Quốc - TPCHM",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Nam",
+      "DepartureDate": "19/04/1014"
+    },
+    {
+      "id": 4,
+      "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+      "img": "../img/vinwonder.jpg",
+      "itinerary": "TPHCM - Phú Quốc - TPCHM",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Nam",
+      "DepartureDate": "19/04/1014"
+    },
+    {
+      "id": 4,
+      "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+      "img": "../img/safari.jpg",
+      "itinerary": "TPHCM - Phú Quốc - TPCHM",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Nam",
+      "DepartureDate": "19/04/1014"
+    },
+    {
+      "id": 4,
+      "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+      "img": "../img/chodem.jpg",
+      "itinerary": "TPHCM - Phú Quốc - TPCHM",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Nam",
+      "DepartureDate": "19/04/1014"
+    },
+    {
+      "id": 4,
+      "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+      "img": "../img/venice.jpg",
+      "itinerary": "TPHCM - Phú Quốc - TPCHM",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Nam",
+      "DepartureDate": "19/04/1014"
+    },
+    
+    {
+      "id": 4,
+      "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+      "img": "../img/PhuQuoc.jpg",
+      "itinerary": "TPHCM - Phú Quốc - TPCHM",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Nam",
+      "DepartureDate": "19/04/1014"
+    },
+    {
+      "id": 4,
+      "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+      "img": "../img/huyenthoaitre.jpg",
+      "itinerary": "TPHCM - Phú Quốc - TPCHM",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Nam",
+      "DepartureDate": "19/04/1014"
+    },
+    {
+      "id": 4,
+      "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+      "img": "../img/congvien.jpg",
+      "itinerary": "TPHCM - Phú Quốc - TPCHM",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Nam",
+      "DepartureDate": "19/04/1014"
+    },
+    {
+      "id": 4,
+      "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+      "img": "../img/vinwonder.jpg",
+      "itinerary": "TPHCM - Phú Quốc - TPCHM",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Nam",
+      "DepartureDate": "19/04/1014"
+    },
+    {
+      "id": 4,
+      "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+      "img": "../img/safari.jpg",
+      "itinerary": "TPHCM - Phú Quốc - TPCHM",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Nam",
+      "DepartureDate": "19/04/1014"
+    },
+    {
+      "id": 4,
+      "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+      "img": "../img/chodem.jpg",
+      "itinerary": "TPHCM - Phú Quốc - TPCHM",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Nam",
+      "DepartureDate": "19/04/1014"
+    },
+    {
+      "id": 4,
+      "title": "Phú Quốc - Thiên đường giải trí VinWonders - Vinpearl Safari",
+      "img": "../img/venice.jpg",
+      "itinerary": "TPHCM - Phú Quốc - TPCHM",
+      "departureLocation" : "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "10000000",
+      "region": "Miền Nam",
+      "DepartureDate": "19/04/1014"
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl1.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Mỹ",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl2.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Mỹ",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl3.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Mỹ",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl4.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Mỹ",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/chuathailan.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Mỹ",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/phocophuket.webp",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Mỹ",
+      "DepartureDate": "27/04/2024"
+    },
+
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl2.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Mỹ",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl3.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Mỹ",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl4.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Mỹ",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl1.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Nhật Bản",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl2.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Nhật Bản",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl3.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Nhật Bản",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl4.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Nhật Bản",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/chuathailan.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Nhật Bản",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/phocophuket.webp",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Nhật Bản",
+      "DepartureDate": "27/04/2024"
+    },
+
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl2.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Nhật Bản",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl3.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Nhật Bản",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl4.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Nhật Bản",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl1.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Canada",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl2.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Canada",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl3.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Canada",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl4.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Canada",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/chuathailan.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Canada",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/phocophuket.webp",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Canada",
+      "DepartureDate": "27/04/2024"
+    },
+
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl2.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Canada",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl3.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Canada",
+      "DepartureDate": "27/04/2024"
+    },
+    {
+      "id": 5,
+      "title": "Thái Lan: Phuket - Đảo Phi Phi & Vịnh Phang Nga | Lễ 30/4",
+      "img": "../img/tl4.jpg",
+      "itinerary": "TL, Phuket, Wat Chalong, M.Promthep, Đ.Phi Phi, V.Phang Nga",
+      "departureLocation": "Thành Phố Hồ Chí Minh(TPHCM) - Sài Gòn(SG)",
+      "duration": "4N3D",
+      "Price": "2000000",
+      "region": "Canada",
+      "DepartureDate": "27/04/2024"
+    }
+  ]
+}
